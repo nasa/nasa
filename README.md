@@ -12,8 +12,14 @@ Github.com/nasa has one of the largest collections of NASA open-source code repo
 
 🔭 Additional open-source code repositories resides in a variety of locations other than github.com/nasa. To discover code across all of these locations, we suggest you use code.nasa.gov & software.nasa.gov. These are two different sites holding metadata that describe code projects. Any code released through the NASA Software Release Authority process should be cataloged on those sites.
 
-- [`Code.nasa.gov`](https://code.nasa.gov) &mdash; Is a page with short descriptions of all of NASA's open-source code. Code.nasa.gov feeds into code.gov, which covers open-source and government-source code from many different U.S. governmental agencies. To assist in discovery, code projects described on code.nasa.gov have both human and A.I.-generated tags. These can be useful for finding related code projects.
-- [`software.nasa.gov`](https://software.nasa.gov) &mdash; Contains metadata descriptions for all code projects in code.nasa.gov as well as government-source code proects only sharable with other government agencies. It is part of the large [`https://technology.nasa.gov/`](https://technology.nasa.gov/) that also includes patents and spinoffs. To help discoverabiliy, software.nasa.gov puts each code project into one fo the following categories: <small>Business Systems and Project Management, System Testing, Operations, Design and Integration Tools, Vehicle Management (Space/Air/Ground), Data Servers Processing and Handling, Propulsion, Structures and Mechanisms, Crew and Life Support, Data and Image Processing, Materials and Processes, Electronics and Electrical Power, Environmental Science (Earth, Air, Space, Exoplanet), Autonomous Systems, and Aeronautics</small>.
+### [`Code.nasa.gov`](https://code.nasa.gov) &mdash; 
+Is a page with short descriptions of all of NASA's open-source code. Code.nasa.gov feeds into code.gov, which covers open-source and government-source code from many different U.S. governmental agencies. To assist in discovery, code projects described on code.nasa.gov have both human and A.I.-generated tags. These can be useful for finding related code projects.
+### [`software.nasa.gov`](https://software.nasa.gov) &mdash; 
+Contains metadata descriptions for all code projects in code.nasa.gov as well as government-source code proects only sharable with other government agencies. It is part of the large [`https://technology.nasa.gov/`](https://technology.nasa.gov/) that also includes patents and spinoffs. To help discoverabiliy, software.nasa.gov puts each code project into one fo the following categories: <small>Business Systems and Project Management, System Testing, Operations, Design and Integration Tools, Vehicle Management (Space/Air/Ground), Data Servers Processing and Handling, Propulsion, Structures and Mechanisms, Crew and Life Support, Data and Image Processing, Materials and Processes, Electronics and Electrical Power, Environmental Science (Earth, Air, Space, Exoplanet), Autonomous Systems, and Aeronautics</small>.
 
 <br />
 <br />
+
+# NOTE - PROFILE READMES CURRENTLY DON'T WORK FOR OR PROFILES ONLY USER PROFILES :( 
+https://github.community/t/readme-for-organization-front-page/2920
+ 
