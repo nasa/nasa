@@ -20,6 +20,6 @@ Contains metadata descriptions for all code projects in code.nasa.gov as well as
 <br />
 <br />
 
-# NOTE - PROFILE READMES CURRENTLY DON'T WORK FOR OR PROFILES ONLY USER PROFILES :( 
+# NOTE - PROFILE READMES CURRENTLY DON'T WORK FOR ORG PROFILES ONLY USER PROFILES :( 
 https://github.community/t/readme-for-organization-front-page/2920
  
